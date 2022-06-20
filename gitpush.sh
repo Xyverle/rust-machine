@@ -1,3 +1,4 @@
+git pull
 git rm --cached *
 git add *
 git commit -m "$1"
